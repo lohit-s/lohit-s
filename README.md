@@ -1,8 +1,8 @@
 <h1 align="center">Lohit S</h1>
-<h3 align="center">Information Technology Student · Web & IoT Developer · Creative Designer</h3>
+<h3 align="center">Information Technology Student · Web  · Creative Designer</h3>
 
 <p align="center">
-  Kongu Engineering College, Erode · Founder, LOHIT VISUALS · Co-Associate, IgKnighters
+  Kongu Engineering College, Erode · LOHIT VISUALS ·
 </p>
 
 <p align="center">
